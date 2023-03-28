@@ -16,4 +16,6 @@ console.log (
 `
 );
 
-document.getElementById ("password") = ""
+document.getElementById ("password").innerHTML = console;
+
+
