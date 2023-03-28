@@ -10,7 +10,7 @@ let number2 = prompt ("Inserisci un altro numero...")
 
 let division = number1 / number2;
 
-let string = name + age + color + number1 + number2; 
+let string = name + age + color + division; 
 
 console.log ( 
 `
